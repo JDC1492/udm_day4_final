@@ -56,3 +56,4 @@ elif (plyr_int == 2 and cpu_choice == 0):
   print("You Lose")
 else:
   print("You Win!")
+# successfully solved
